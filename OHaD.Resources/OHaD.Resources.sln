@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OHaD.Resources.UI.Knockout", "OHaD.Resources.UI.Knockout\OHaD.Resources.UI.Knockout.csproj", "{8E2C1442-A1EF-43B8-BE86-FB43ECFAAAFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OHaD.Resources.UI.KnockoutJS", "OHaD.Resources.UI.KnockoutJS\OHaD.Resources.UI.KnockoutJS.csproj", "{0226F874-EBB5-4D10-8C7B-4A5470BC836C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E2C1442-A1EF-43B8-BE86-FB43ECFAAAFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2C1442-A1EF-43B8-BE86-FB43ECFAAAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2C1442-A1EF-43B8-BE86-FB43ECFAAAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2C1442-A1EF-43B8-BE86-FB43ECFAAAFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0226F874-EBB5-4D10-8C7B-4A5470BC836C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0226F874-EBB5-4D10-8C7B-4A5470BC836C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0226F874-EBB5-4D10-8C7B-4A5470BC836C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0226F874-EBB5-4D10-8C7B-4A5470BC836C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
